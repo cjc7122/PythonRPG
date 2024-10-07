@@ -1,0 +1,195 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "example.tmx",
+    "expandedProjectPaths": [
+        ".",
+        "Map_Tiles",
+        "Map_Tiles/Tree",
+        "Map_Tiles/Grass"
+    ],
+    "fileStates": {
+        "Map1.tmx": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 693,
+                "y": 958.5
+            }
+        },
+        "Map_Tiles/Grass/tile000.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Grass/tile015.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Grass/tile016.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Grass/tile017.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Map_Tiles/Tree/tile000.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile001.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile002.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile003.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile004.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile005.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile006.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile007.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile008.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile009.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile010.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile011.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile012.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile013.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile014.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile015.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile016.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile017.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Map_Tiles/Tree/tile018.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile019.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile020.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile021.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Map_Tiles/Tree/tile022.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile023.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile024.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile025.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile026.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile027.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile028.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile029.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile030.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile031.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile032.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile033.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile034.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Map_Tiles/Tree/tile035.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile036.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile037.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile038.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile039.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile040.tsx": {
+            "scaleInDock": 1
+        },
+        "Map_Tiles/Tree/tile041.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "example.tmx": {
+            "scale": 0.44729166666666664,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 961.3414066138799,
+                "y": 961.3414066138799
+            }
+        }
+    },
+    "map.height": 60,
+    "map.lastUsedFormat": "tmx",
+    "map.renderOrder": null,
+    "map.width": 60,
+    "openFiles": [
+        "Map1.tmx",
+        "Map_Tiles/Tree/tile041.tsx",
+        "Map_Tiles/Tree/tile021.tsx",
+        "example.tmx"
+    ],
+    "project": "WorldMap.tiled-project",
+    "recentFiles": [
+        "Map1.tmx",
+        "Map_Tiles/Tree/tile041.tsx",
+        "Map_Tiles/Tree/tile021.tsx",
+        "example.tmx",
+        "Map_Tiles/Tree/tile017.tsx",
+        "Map_Tiles/Grass/tile017.tsx",
+        "Map_Tiles/Tree/tile034.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
